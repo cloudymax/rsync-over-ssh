@@ -2,6 +2,10 @@
 
 Faster file transfers by running rsync over ssh. Based on this wild thread: https://gist.github.com/KartikTalwar/4393116.
 
+## Requirements
+
+- rsync on each machine
+
 ## Results
 
 Local pc to pc transfer over gigabit network
